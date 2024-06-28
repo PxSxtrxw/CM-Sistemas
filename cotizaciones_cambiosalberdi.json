@@ -1,0 +1,108 @@
+{
+    "sdtInfoCotizacion": {
+        "entidad": "Cambios Alberdi Sociedad Anonima",
+        "fecha": "2024-06-28",
+        "pizarra": {
+            "pizarraItem": [
+                {
+                    "moneda": "Dólar Americano",
+                    "codigo": "USD",
+                    "compra": 7440.0,
+                    "venta": 7470.0,
+                    "spread": 30.0
+                },
+                {
+                    "moneda": "Real Brasileño",
+                    "codigo": "BRL",
+                    "compra": 1315.0,
+                    "venta": 1365.0,
+                    "spread": 50.0
+                },
+                {
+                    "moneda": "EURO",
+                    "codigo": "EUR",
+                    "compra": 8470.0,
+                    "venta": 8680.0,
+                    "spread": 210.0
+                },
+                {
+                    "moneda": "Peso Argentino",
+                    "codigo": "ARS",
+                    "compra": 520.0,
+                    "venta": 570.0,
+                    "spread": 50.0
+                },
+                {
+                    "moneda": "Dólar Americano x Real Brasileño",
+                    "codigo": "USD",
+                    "compra": 5500.0,
+                    "venta": 5660.0,
+                    "spread": 160.0
+                },
+                {
+                    "moneda": "Dólar Americano x EURO",
+                    "codigo": "USD",
+                    "compra": 1139.0,
+                    "venta": 1162.0,
+                    "spread": 23.0
+                },
+                {
+                    "moneda": "Dólar Americano x Peso Argentino",
+                    "codigo": "USD",
+                    "compra": 1305.0,
+                    "venta": 1437.0,
+                    "spread": 132.0
+                },
+                {
+                    "moneda": "Dólar Cheque",
+                    "codigo": "USD",
+                    "compra": 7500.0,
+                    "venta": 7550.0,
+                    "spread": 50.0
+                },
+                {
+                    "moneda": "Yen Japones",
+                    "codigo": "JPY",
+                    "compra": 4100.0,
+                    "venta": 5000.0,
+                    "spread": 900.0
+                },
+                {
+                    "moneda": "Libra Esterlina",
+                    "codigo": "GBP",
+                    "compra": 8455.0,
+                    "venta": 9850.0,
+                    "spread": 1395.0
+                },
+                {
+                    "moneda": "Dólar Canadiense",
+                    "codigo": "CAD",
+                    "compra": 4610.0,
+                    "venta": 5460.0,
+                    "spread": 850.0
+                },
+                {
+                    "moneda": "Peso Chileno",
+                    "codigo": "CLP",
+                    "compra": 700.0,
+                    "venta": 900.0,
+                    "spread": 200.0
+                },
+                {
+                    "moneda": "Peso Uruguayo",
+                    "codigo": "UYU",
+                    "compra": 165.0,
+                    "venta": 220.0,
+                    "spread": 55.0
+                },
+                {
+                    "moneda": "Franco Suizo",
+                    "codigo": "CHF",
+                    "compra": 7020.0,
+                    "venta": 8305.0,
+                    "spread": 1285.0
+                }
+            ]
+        }
+    }
+}
