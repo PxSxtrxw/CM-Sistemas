@@ -2,7 +2,7 @@
 
 ## App de Scraping en Python
 
-Este proyecto tiene como objetivo extraer datos mediante web scraping y alojarlos en un servidor HTTP y en una base de datos desde la página del [Banco Central Paraguayo](https://www.bcp.gov.py/webapps/web/cotizacion/monedas). Los datos recopilados incluyen:
+Este proyecto tiene como objetivo extraer datos mediante web scraping y alojarlos en un servidor HTTP y en una base de datos desde diferentes metodos registrados en el mismo codigo,Los datos recopilados incluyen:
 
 -  Moneda
 -  Código
