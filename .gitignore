@@ -6,6 +6,26 @@ __pycache__/
 # C extensions
 *.so
 
+# Logs
+logs
+*.log
+actividades.log*
+errores.log*
+
+# Jsons
+Jsons
+*.json
+stats_bcp.json*
+stats_maxicambios.json*
+stats_cambioschaco.json*
+stats_cambiosalberdi.json*
+cotizaciones_bcp.json*
+cotizaciones_maxicambios.json*
+cotizaciones_cambioschaco.json*
+cotizaciones_cambiosalberdi.json*
+
+
+
 # Distribution / packaging
 .Python
 build/
