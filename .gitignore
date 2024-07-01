@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Dsatabase
+database
+*.db
+cotizaciones.db*
+
 # Logs
 logs
 *.log
